@@ -84,13 +84,7 @@ class Component extends React.Component {
 
 ## Donation
 
-#### Paypal
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.me/ciaochaos)
-
-#### Alipay
-
-<img align="center" src="https://blog.ciaochaos.com/projects/qrcode/alipay2.jpeg" width="250">
 
 ## Dependency
 
